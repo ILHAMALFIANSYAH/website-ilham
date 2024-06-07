@@ -7,13 +7,22 @@ const HeroSection = () => {
       <Container>
         <Row>
           <Col md={6}>
-            <h1>Welcome to Our Gym</h1>
-            <p>Your fitness journey starts here.</p>
+          <br></br><br></br><br></br>
+            <h1>Welcome to SMK SINGS BOGOR</h1>
+            <p>Your singing journey begins here.</p>
             <Button variant="dark">Join Now</Button>
           </Col>
           <Col md={6}>
             <div className="embed-responsive embed-responsive-16by9">
-              <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowFullScreen></iframe>
+              <iframe
+                width="100%"
+                height="300"
+                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                title="YouTube video player"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              ></iframe>
             </div>
           </Col>
         </Row>

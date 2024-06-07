@@ -8,28 +8,28 @@ const FeaturesSection = () => {
         <Row>
           <Col md={4}>
             <Card>
-              <Card.Img variant="top" src="https://mataair.id/wp-content/uploads/2021/04/5-1-1.jpg" />
+              <Card.Img variant="top" src="https://www.mystudio.co.id/tinymce/images/Untitled-1_0000s_0000_Layer_15_eoavj5.jpg" />
               <Card.Body>
-                <Card.Title><b>GYM-rom VIP</b></Card.Title>
-                <Card.Text>This VIP GYM room will get bonus supplements and mentoring and has a swimming pool etc. for the price / day Rp. 150,000 and for monthly Rp.4,000,000</Card.Text>
+                <Card.Title><b>Training Room</b></Card.Title>
+                <Card.Text>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</Card.Text>
               </Card.Body>
             </Card>
           </Col>
           <Col md={4}>
             <Card>
-              <Card.Img variant="top" src="https://asset.kompas.com/crops/Zrmcdh4d4pRDqutGIEJyXZwEbnM=/0x0:780x520/1200x800/data/photo/2022/06/29/62bc28f230768.jpg" />
+              <Card.Img variant="top" src="https://www.akustikruang.com/joimg/portofolio/akustik-ruang-Studio-Musik-American-A.gif" />
               <Card.Body>
-                <Card.Title><b>GYM-rom 01</b></Card.Title>
-                <Card.Text>This public GYM room will get a bonus supplement. for the price / day Rp. 90,000 and for monthly Rp.2,5000,000</Card.Text>
+                <Card.Title><b>Content room</b></Card.Title>
+                <Card.Text>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</Card.Text>
               </Card.Body>
             </Card>
           </Col>
           <Col md={4}>
             <Card>
-              <Card.Img variant="top" src="https://ik.imagekit.io/tvlk/blog/2020/04/Fitness-Center-Fairmont-Jakarta.jpg?tr=dpr-2,w-675" />
+              <Card.Img variant="top" src="https://artikel.rumah123.com/news-content/img/2021/08/13134635/Untitled-design-2021-08-13T134542.210.jpg" />
               <Card.Body>
-                <Card.Title><b>GYM-rom 02</b></Card.Title>
-                <Card.Text>This public GYM room will get a bonus supplement. for the price / day Rp. 90,000 and for monthly Rp.2,5000,000</Card.Text>
+                <Card.Title><b>Filming Room</b></Card.Title>
+                <Card.Text>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</Card.Text>
               </Card.Body>
             </Card>
           </Col>

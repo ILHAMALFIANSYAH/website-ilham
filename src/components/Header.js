@@ -4,7 +4,7 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 const Header = () => {
   return (
     <Navbar className="header container" expand="lg">
-      <Navbar.Brand href="#">AN - GYM</Navbar.Brand>
+      <Navbar.Brand href="#">SMK SINGS BOGOR</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="navbar-nav mx-auto align-items-lg-center">

@@ -11,12 +11,12 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div>
-      <Header />
-      <HeroSection />
-      <FeaturesSection />
-      <GallerySection />
-      <MyComponent />
-      <Footer />
+        <Header />
+        <HeroSection />
+        <FeaturesSection />
+        <GallerySection />
+        <MyComponent />
+        <Footer />
     </div>
   );
 }

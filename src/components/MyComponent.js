@@ -20,13 +20,13 @@ const MyComponent = () => {
         <Col xs={6}>
           <Form>
             <Form.Group controlId="formInput1" className="mb-3">
-              <Form.Control type="text" placeholder="Email"/>
+              <Form.Control type="text" placeholder="Nickname"/>
             </Form.Group>
             <Form.Group controlId="formInput2" className="mb-3">
-              <Form.Control type="text" placeholder="Password" />
+              <Form.Control type="text" placeholder="Email" />
             </Form.Group>
             <Form.Group controlId="formTextarea">
-              <Form.Control as="textarea" rows={5} placeholder="Alasan" />
+              <Form.Control as="textarea" rows={5} placeholder="TextArea" />
             </Form.Group>
           </Form>
          <Row className="mt-3">
